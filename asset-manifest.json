@@ -1,14 +1,14 @@
 {
-  "main.css": "/todo_app_26_feb_2019/static/css/main.19345e10.chunk.css",
-  "main.js": "/todo_app_26_feb_2019/static/js/main.e9dc489d.chunk.js",
-  "main.js.map": "/todo_app_26_feb_2019/static/js/main.e9dc489d.chunk.js.map",
+  "main.css": "/todo_app_26_feb_2019/static/css/main.ad920379.chunk.css",
+  "main.js": "/todo_app_26_feb_2019/static/js/main.267df3ed.chunk.js",
+  "main.js.map": "/todo_app_26_feb_2019/static/js/main.267df3ed.chunk.js.map",
   "runtime~main.js": "/todo_app_26_feb_2019/static/js/runtime~main.3ebd4099.js",
   "runtime~main.js.map": "/todo_app_26_feb_2019/static/js/runtime~main.3ebd4099.js.map",
   "static/js/2.c7381a75.chunk.js": "/todo_app_26_feb_2019/static/js/2.c7381a75.chunk.js",
   "static/js/2.c7381a75.chunk.js.map": "/todo_app_26_feb_2019/static/js/2.c7381a75.chunk.js.map",
   "index.html": "/todo_app_26_feb_2019/index.html",
-  "precache-manifest.8fe4fbd9c6459e79b28a99efc0684c0f.js": "/todo_app_26_feb_2019/precache-manifest.8fe4fbd9c6459e79b28a99efc0684c0f.js",
+  "precache-manifest.c947b8eefd7d37c1986b20598e1964ce.js": "/todo_app_26_feb_2019/precache-manifest.c947b8eefd7d37c1986b20598e1964ce.js",
   "service-worker.js": "/todo_app_26_feb_2019/service-worker.js",
-  "static/css/main.19345e10.chunk.css.map": "/todo_app_26_feb_2019/static/css/main.19345e10.chunk.css.map",
+  "static/css/main.ad920379.chunk.css.map": "/todo_app_26_feb_2019/static/css/main.ad920379.chunk.css.map",
   "static/media/logo.svg": "/todo_app_26_feb_2019/static/media/logo.5d5d9eef.svg"
 }
